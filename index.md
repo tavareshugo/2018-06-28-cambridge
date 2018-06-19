@@ -10,10 +10,10 @@ humandate: "Apr 16-17, 2018"    # human-readable dates for the workshop (e.g., "
 humantime: "9:30 - 17:30"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2018-04-16      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2018-04-17        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Adrian Baez-Ortega, Ashley Sawle, Hugo Tavares, Mark Fernandes"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Sandra Cortijo, Hugo Tavares, Sergio Martinez Cuesta"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["Gabriella Rustici <gr231@cam.ac.uk>"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:  http://pad.software-carpentry.org/2018-04-16-cambridge   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes:  http://pad.software-carpentry.org/2018-06-28-cambridge   # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -226,7 +226,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h3>Day 1</h3>
 
-<h4>Data organization in spreadsheets (Hugo)</h4>
+<h4>Data organization in spreadsheets (Sandra)</h4>
 
 <p>
   Data files for the lesson are available 
@@ -242,7 +242,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li><a href="http://www.datacarpentry.org/spreadsheet-ecology-lesson/05-exporting-data/">Exporting data</a></li>
 </ol>
 
-<h4>Data cleaning with OpenRefine (Mark)</h4>
+<h4>Data cleaning with OpenRefine (Hugo)</h4>
 
 <p>
   Data files for the lesson are available 
@@ -260,7 +260,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   
 </ol>
 
-<h4>Data analysis with R (Ash)</h4>
+<h4>Data analysis with R (Hugo)</h4>
 
 <ol>
   <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and Rstudio</a></li>
@@ -268,7 +268,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <li><a href="http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html">Working with tabular data in R</a></li>
 </ol>
 
-<a href="https://rawgit.com/tavareshugo/2017-09-11-cambridge/gh-pages/materials_recap/day1_recap.html">Recap of R materials from Day 1</a>
+<a href="https://rawgit.com/tavareshugo/data_carpentry_extras/master/recap_intro_r/recap_intro_r.html">Recap of R materials from Day 1</a>
 
 
 <h3>Day 2</h3>
@@ -277,9 +277,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <h4>Data analysis with R</h4>
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a> (Hugo)</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a> (Adrian)</li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> (Mark)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/03-dplyr.html">Data manipulation using the R package dplyr</a> (Sergio)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/04-visualization-ggplot2.html">Data visualisation using the R package ggplot2</a> (Sandra)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/05-r-and-databases.html">Interacting with databases from R</a> (Hugo)</li>
 </ol>
 
 Learn more about SQL from the 
