@@ -260,12 +260,12 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   
 </ol>
 
-<h4>Data analysis with R (Hugo)</h4>
+<h4>Data analysis with R</h4>
 
 <ol>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and Rstudio</a></li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html">Introduction to R</a></li>
-  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html">Working with tabular data in R</a></li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/00-before-we-start.html">Overview of R and Rstudio</a> (Hugo)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/01-intro-to-r.html">Introduction to R</a>  (Hugo)</li>
+  <li><a href="http://www.datacarpentry.org/R-ecology-lesson/02-starting-with-data.html">Working with tabular data in R</a>  (Sandra)</li>
 </ol>
 
 <a href="https://rawgit.com/tavareshugo/data_carpentry_extras/master/recap_intro_r/recap_intro_r.html">Recap of R materials from Day 1</a>
